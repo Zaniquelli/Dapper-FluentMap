@@ -1,5 +1,5 @@
-## 📦 Archived
-This repository is archived as I'm not using this library myself anymore and have no time maintaining it. Thanks for using it.
+## Not exaclty maintained 🤖
+I've been looking into the project and might start working on it, though I'm still deciding. That said, is it a must-have for you? Let me know.
 
 <hr>
 
